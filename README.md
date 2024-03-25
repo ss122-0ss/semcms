@@ -58,10 +58,9 @@ payload:-1 or ascii(substr(database(),1,1)) REGEXP char(94,49,48,57,36)
 When the condition is true:
 
 It should be noted that you need to add pictures before reproducing, otherwise no picture will be generated on the page no matter what the ID and lgid are equal to.
+![图片5](https://github.com/ss122-0ss/semcms/assets/131983607/af2efc15-a4ab-49e7-8259-db17468ca54e)
 
-![image-20240325130216303](https://github.com/ss122-0ss/semcms/assets/131983607/316e01c6-f446-409f-be11-3232188d8885)
-
-![image-20240325130221278](https://github.com/ss122-0ss/semcms/assets/131983607/7761917f-e8e2-4269-b383-d8f4e92cdff2)
+![图片6](https://github.com/ss122-0ss/semcms/assets/131983607/08082be4-0917-4470-b433-c32899ff1db3)
 
 ![image-20240325130707386](https://github.com/ss122-0ss/semcms/assets/131983607/17aff268-9248-451f-b996-41386d8fbc54)
 
