@@ -32,7 +32,8 @@ function verify_str($str) {
 
 The vulnerability exists on line 32 of SEMCMS_Banner.php:
 
-![image-20240325125850992](C:\Users\28162\AppData\Roaming\Typora\typora-user-images\image-20240325125850992.png)
+![image-20240325125850992](https://github.com/ss122-0ss/semcms/assets/131983607/6827dde3-32ea-4718-a64d-af68ab781cd3)
+
 
 ```php
 <?php
@@ -47,7 +48,8 @@ The vulnerability exists on line 32 of SEMCMS_Banner.php:
 
 The vulnerability exists on line 69 of SEMCMS_Banner.php:
 
-![image-20240325130124241](C:\Users\28162\AppData\Roaming\Typora\typora-user-images\image-20240325130124241.png)
+![image-20240325130124241](https://github.com/ss122-0ss/semcms/assets/131983607/3c28e528-52b9-4769-992a-ae5375649f22)
+
 
 ```
 payload:-1 or ascii(substr(database(),1,1)) REGEXP char(94,49,48,57,36)
@@ -57,12 +59,10 @@ When the condition is true:
 
 It should be noted that you need to add pictures before reproducing, otherwise no picture will be generated on the page no matter what the ID and lgid are equal to.
 
-![图片3](D:\Desktop\images\图片3.png)
+![image-20240325130216303](https://github.com/ss122-0ss/semcms/assets/131983607/316e01c6-f446-409f-be11-3232188d8885)
 
-![图片4](D:\Desktop\images\图片4.png)
+![image-20240325130221278](https://github.com/ss122-0ss/semcms/assets/131983607/7761917f-e8e2-4269-b383-d8f4e92cdff2)
 
+![image-20240325130707386](https://github.com/ss122-0ss/semcms/assets/131983607/17aff268-9248-451f-b996-41386d8fbc54)
 
-
-![image-20240325130707386](C:\Users\28162\AppData\Roaming\Typora\typora-user-images\image-20240325130707386.png)
-
-![image-20240325130725854](C:\Users\28162\AppData\Roaming\Typora\typora-user-images\image-20240325130725854.png)
+![image-20240325130725854](https://github.com/ss122-0ss/semcms/assets/131983607/424699af-1352-483e-b36d-01e07843c169)
