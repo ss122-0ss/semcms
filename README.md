@@ -1,8 +1,10 @@
 #  Semcms v4.8 SEMCMS_Banner.php SQL Injection
-
-###  Introduction to Semcms
-
-SEMCMS is a foreign trade website content management system (CMS) that supports multiple languages.
+- **Exploit Title:**  Semcms v4.8 SEMCMS_Banner.php SQL Injection
+- **Date:** 2024-04-01
+- **Exploit Author:** shuo sheng,jixin zhang
+- **Vendor Homepage:** http://www.sem-cms.com/
+- **Software Link:** [https://download.code-projects.org/details/d10e92aa-e37f-46fd-9bf8-45878956d7c0](http://www.sem-cms.com/TradeCmsdown/php/semcms_php_4.8.zip)
+- **Version:** Semcmsv4.8
 
 ```
 v4.8zip download link:http://www.sem-cms.com/TradeCmsdown/php/semcms_php_4.8.zip
